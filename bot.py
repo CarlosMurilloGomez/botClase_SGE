@@ -2,7 +2,7 @@ from telegram import Update, ReplyKeyboardMarkup
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, CallbackContext
 
 
-TOKEN = "7676914682:AAGseR0GPhPwJZSOYC5uvGbKsFlxlEvLMco"
+TOKEN = "8195976477:AAHJ1racJ2qMCwvXI8e3I_aT1t-A2nHOrAc"
 CATEGORIAS = {
     "Vehículos": ["Moto", "Coche", "Triciclo"],
     "Moto": [">50cc", "<50cc"],
